@@ -1,0 +1,17 @@
+{
+    "projects": [   
+        {
+            "id": "012345",
+            "name": "test project 1",
+            "path": "test-project-1",
+            "deviceId": ["6463bfd2b8c17572dee6464a", "6463bfd2b8c17572dee6464b"]
+        },
+        {
+            "id": "678910",
+            "name": "test project 2",
+            "path": "test-project-2",
+            "deviceId": ["6463bfd2b8c17572dee6464c", "6463bfd2b8c17572dee6464d"]
+        }
+    ]
+
+}

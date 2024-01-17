@@ -1,0 +1,11 @@
+{
+    "status": "success",
+    "data": {
+        "id": "6463bfd2b8c17572dee6464a",
+        "platform": "CI3",
+        "model": "DA70",
+        "remoteHost": "166.149.166.88",
+        "serial": "YU16OCT2000053",
+        "state": true
+    }
+}

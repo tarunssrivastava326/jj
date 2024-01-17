@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "data": 
+    [
+        {
+            "id": "e40779c2-ea41-42fb-af6e-5380638ff6a7",
+            "username": "test.user",
+            "firstName": "Test",
+            "lastName": "User",
+            "email": "test.user@redlion.net",
+            "emailVerified": false,
+            "role": "Viewer",
+            "attributes": {}
+        }
+    ],
+    "message": "User named Test User has been successfully removed"
+}

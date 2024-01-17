@@ -1,0 +1,467 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "description": "Lorem ipsum content to be added here. This is updated text.",
+            "id": "6463bfd2b8c17572dee6464a",
+            "platform": "CI3",
+            "authorized": true,
+            "banned": false,
+            "lowBandwidth": false,
+            "lastCheckin": 1685138574591,
+            "checkIn": {
+                "delta": 14405695,
+                "last": 1685138574591,
+                "next": 1685152974591,
+                "lateness": 0
+            },
+            "client": {
+                "pollInterval": 240,
+                "serverMode": "error",
+                "primary": "172.105.43.200",
+                "secondary": "13.58.58.214",
+                "version": "1.62"
+            },
+            "firmwareVersion": "3.2.0053.18",
+            "status": 2,
+            "hostName": "da70-0812b1",
+            "interfaces": [
+                {
+                    "name": "wwan0",
+                    "_id": "64712c8e7f155de035323eb0",
+                    "status": "UP",
+                    "ipv4": "166.149.166.88",
+                    "id": "64712c8e7f155de035323eb0"
+                },
+                {
+                    "name": "tun0",
+                    "_id": "64712c8e7f155d4a87323eaf",
+                    "status": "UP",
+                    "ipv4": "10.0.40.10",
+                    "id": "64712c8e7f155d4a87323eaf"
+                },
+                {
+                    "name": "eth0",
+                    "_id": "64712c8e7f155dac35323eae",
+                    "status": "DOWN",
+                    "ipv4": "0.0.0.0",
+                    "id": "64712c8e7f155dac35323eae"
+                },
+                {
+                    "name": "eth1",
+                    "_id": "64712c8e7f155d50a6323ead",
+                    "status": "UP",
+                    "ipv4": "192.168.222.222",
+                    "id": "64712c8e7f155d50a6323ead"
+                }
+            ],
+            "modules": [
+                {
+                    "name": "GPS",
+                    "status": true,
+                    "alt": 658,
+                    "cpLat": null,
+                    "cpLong": null,
+                    "cpRad": null,
+                    "feet": null,
+                    "lat": 33.07695,
+                    "long": -96.6719167,
+                    "sat": null,
+                    "time": null,
+                    "type": 1,
+                    "uptime": null
+                },
+                {
+                    "name": "Cell",
+                    "status": false,
+                    "lightbarSignal": "3",
+                    "modem.lte.rsrp": null,
+                    "modem.lte.rsrq": null,
+                    "modem.carrier.plmn": "",
+                    "modem.chan": "",
+                    "modem.ecio": "",
+                    "modem.esn": "358148062856161",
+                    "modem.mdn": "+17178735412",
+                    "modem.name": "LE910-NA V2",
+                    "modem.rssi": 18,
+                    "modem.ccid": "",
+                    "modem.imsi": "311480105655069",
+                    "rx": 0,
+                    "serviceType": "Verizon 4G",
+                    "tx": 0,
+                    "uptime": 1051
+                }
+            ],
+            "majorName": "Jeff_DA70",
+            "minorName": "Jeff_DA70",
+            "mode.status": "NORMAL",
+            "model": "DA70",
+            "remoteHost": "166.149.166.88",
+            "serial": "YU16OCT2000053",
+            "unitId": "YU16OCT2000053-CI3",
+            "state": 1
+        },
+        {
+            "description": "",
+            "id": "6463bfd2b8c17572dee6464b",
+            "platform": "CI3",
+            "authorized": true,
+            "banned": false,
+            "lowBandwidth": false,
+            "lastCheckin": 1685138574591,
+            "checkIn": {
+                "delta": 14405695,
+                "last": 1685138574591,
+                "next": 1685152974591,
+                "lateness": 0
+            },
+            "client": {
+                "pollInterval": 240,
+                "serverMode": "both",
+                "primary": "172.16.20.11",
+                "secondary": "10.83.11.23",
+                "version": "1.62"
+            },
+            "firmwareVersion": "3.2.0053.24",
+            "status": 1,
+            "hostName": "da70-123456",
+            "interfaces": [
+                {
+                    "name": "wwan0",
+                    "_id": "64712c8e7f155de035323eb0",
+                    "status": "UP",
+                    "ipv4": "166.149.166.88",
+                    "id": "64712c8e7f155de035323eb0"
+                },
+                {
+                    "name": "tun0",
+                    "_id": "64712c8e7f155d4a87323eaf",
+                    "status": "UP",
+                    "ipv4": "10.0.40.10",
+                    "id": "64712c8e7f155d4a87323eaf"
+                },
+                {
+                    "name": "eth0",
+                    "_id": "64712c8e7f155dac35323eae",
+                    "status": "DOWN",
+                    "ipv4": "0.0.0.0",
+                    "id": "64712c8e7f155dac35323eae"
+                },
+                {
+                    "name": "eth1",
+                    "_id": "64712c8e7f155d50a6323ead",
+                    "status": "UP",
+                    "ipv4": "192.168.222.222",
+                    "id": "64712c8e7f155d50a6323ead"
+                }
+            ],
+            "modules": [
+                {
+                    "name": "GPS",
+                    "status": true,
+                    "alt": 658,
+                    "cpLat": null,
+                    "cpLong": null,
+                    "cpRad": null,
+                    "feet": null,
+                    "lat": 33.07695,
+                    "long": -96.6719167,
+                    "sat": null,
+                    "time": null,
+                    "type": 1,
+                    "uptime": null
+                },
+                {
+                    "name": "Cell",
+                    "status": false,
+                    "lightbarSignal": "3",
+                    "modem.lte.rsrp": null,
+                    "modem.lte.rsrq": null,
+                    "modem.carrier.plmn": "",
+                    "modem.chan": "",
+                    "modem.ecio": "",
+                    "modem.esn": "358148062856161",
+                    "modem.mdn": "+17178735412",
+                    "modem.name": "LE910-NA V2",
+                    "modem.rssi": 18,
+                    "modem.ccid": "",
+                    "modem.imsi": "311480105655069",
+                    "rx": 0,
+                    "serviceType": "Verizon 4G",
+                    "tx": 0,
+                    "uptime": 1051
+                }
+            ],
+            "majorName": "MAJOR_NOV",
+            "minorName": "MINOR_NOV",
+            "mode.status": "NORMAL",
+            "model": "DA70",
+            "remoteHost": "172.16.20.11",
+            "serial": "YU06MAR2000052",
+            "unitId": "YU06MAR2000052-CI3",
+            "state": 2
+        },
+        {
+            "description": "",
+            "id": "6463bfd2b8c17572dee6464c",
+            "platform": "CI3",
+            "authorized": true,
+            "banned": false,
+            "lowBandwidth": false,
+            "lastCheckin": 1685138574591,
+            "checkIn": {
+                "delta": 14405695,
+                "last": 1685138574591,
+                "next": 1685152974591,
+                "lateness": 0
+            },
+            "client": {
+                "pollInterval": 240,
+                "serverMode": "both",
+                "primary": "172.16.20.11",
+                "secondary": "10.83.11.23",
+                "version": "1.62"
+            },
+            "firmwareVersion": "3.2.0053.24",
+            "status": 0,
+            "hostName": "da70-123456",
+            "interfaces": [
+                {
+                    "name": "wwan0",
+                    "_id": "64712c8e7f155de035323eb0",
+                    "status": "UP",
+                    "ipv4": "166.149.166.88",
+                    "id": "64712c8e7f155de035323eb0"
+                },
+                {
+                    "name": "tun0",
+                    "_id": "64712c8e7f155d4a87323eaf",
+                    "status": "UP",
+                    "ipv4": "10.0.40.10",
+                    "id": "64712c8e7f155d4a87323eaf"
+                },
+                {
+                    "name": "eth0",
+                    "_id": "64712c8e7f155dac35323eae",
+                    "status": "DOWN",
+                    "ipv4": "0.0.0.0",
+                    "id": "64712c8e7f155dac35323eae"
+                },
+                {
+                    "name": "eth1",
+                    "_id": "64712c8e7f155d50a6323ead",
+                    "status": "UP",
+                    "ipv4": "192.168.222.222",
+                    "id": "64712c8e7f155d50a6323ead"
+                }
+            ],
+            "modules": [
+                {
+                    "name": "GPS",
+                    "status": true,
+                    "alt": 658,
+                    "cpLat": null,
+                    "cpLong": null,
+                    "cpRad": null,
+                    "feet": null,
+                    "lat": 33.07695,
+                    "long": -96.6719167,
+                    "sat": null,
+                    "time": null,
+                    "type": 1,
+                    "uptime": null
+                },
+                {
+                    "name": "Cell",
+                    "status": false,
+                    "lightbarSignal": "3",
+                    "modem.lte.rsrp": null,
+                    "modem.lte.rsrq": null,
+                    "modem.carrier.plmn": "",
+                    "modem.chan": "",
+                    "modem.ecio": "",
+                    "modem.esn": "358148062856161",
+                    "modem.mdn": "+17178735412",
+                    "modem.name": "LE910-NA V2",
+                    "modem.rssi": 18,
+                    "modem.ccid": "",
+                    "modem.imsi": "311480105655069",
+                    "rx": 0,
+                    "serviceType": "Verizon 4G",
+                    "tx": 0,
+                    "uptime": 1051
+                }
+            ],
+            "majorName": "MAJOR_NOV",
+            "minorName": "MINOR_NOV",
+            "mode": "NORMAL",
+            "model": "DA70",
+            "remoteHost": "172.16.20.11",
+            "serial": "YU02NOV2000001",
+            "unitId": "YU02NOV2000001-CI3",
+            "state": 1
+        },
+        {
+            "description": "",
+            "id": "6463bfd2b8c17572dee6464d",
+            "platform": "CI3",
+            "authorized": true,
+            "banned": false,
+            "lowBandwidth": false,
+            "lastCheckin": 1685138574591,
+            "checkIn": {
+                "delta": 14405695,
+                "last": 1685138574591,
+                "next": 1685152974591,
+                "lateness": 0
+            },
+            "client": {
+                "pollInterval": 240,
+                "serverMode": "both",
+                "primary": "172.16.20.11",
+                "secondary": "10.83.11.23",
+                "version": "1.62"
+            },
+            "firmwareVersion": "3.2.0053.24",
+            "status": 3,
+            "hostName": "da70-123456",
+            "interfaces": [
+                {
+                    "name": "wwan0",
+                    "_id": "64712c8e7f155de035323eb0",
+                    "status": "UP",
+                    "ipv4": "166.149.166.88",
+                    "id": "64712c8e7f155de035323eb0"
+                },
+                {
+                    "name": "tun0",
+                    "_id": "64712c8e7f155d4a87323eaf",
+                    "status": "UP",
+                    "ipv4": "10.0.40.10",
+                    "id": "64712c8e7f155d4a87323eaf"
+                },
+                {
+                    "name": "eth0",
+                    "_id": "64712c8e7f155dac35323eae",
+                    "status": "DOWN",
+                    "ipv4": "0.0.0.0",
+                    "id": "64712c8e7f155dac35323eae"
+                },
+                {
+                    "name": "eth1",
+                    "_id": "64712c8e7f155d50a6323ead",
+                    "status": "UP",
+                    "ipv4": "192.168.222.222",
+                    "id": "64712c8e7f155d50a6323ead"
+                }
+            ],
+            "modules": [
+                {
+                    "name": "GPS",
+                    "status": true,
+                    "alt": 658,
+                    "cpLat": null,
+                    "cpLong": null,
+                    "cpRad": null,
+                    "feet": null,
+                    "lat": 33.07695,
+                    "long": -96.6719167,
+                    "sat": null,
+                    "time": null,
+                    "type": 1,
+                    "uptime": null
+                },
+                {
+                    "name": "Cell",
+                    "status": false,
+                    "lightbarSignal": "3",
+                    "modem.lte.rsrp": null,
+                    "modem.lte.rsrq": null,
+                    "modem.carrier.plmn": "",
+                    "modem.chan": "",
+                    "modem.ecio": "",
+                    "modem.esn": "358148062856161",
+                    "modem.mdn": "+17178735412",
+                    "modem.name": "LE910-NA V2",
+                    "modem.rssi": 18,
+                    "modem.ccid": "",
+                    "modem.imsi": "311480105655069",
+                    "rx": 0,
+                    "serviceType": "Verizon 4G",
+                    "tx": 0,
+                    "uptime": 1051
+                }
+            ],
+            "majorName": "MAJOR_NOV",
+            "minorName": "MINOR_NOV",
+            "mode": "NORMAL",
+            "model": "DA70",
+            "remoteHost": "172.16.20.11",
+            "serial": "YU10JAN2000001",
+            "unitId": "YU10JAN2000001-CI3",
+            "state": 1
+        }
+    ],
+    "columnMeta": {
+        "defaultColumns": [
+            {
+                "key": "serial",
+                "value": "Serial"
+            },
+            {
+                "key": "firmwareVersion",
+                "value": "FW Ver."
+            },
+            {
+                "key": "lastCheckin",
+                "value": "Last Check-in"
+            },
+            {
+                "key": "status",
+                "value": "Status"
+            }
+        ],
+        "allColumns": [
+            {
+                "key": "serial",
+                "value": "Serial"
+            },
+            {
+                "key": "firmwareVersion",
+                "value": "FW Ver."
+            },
+            {
+                "key": "lastCheckin",
+                "value": "Last Check-in"
+            },
+            {
+                "key": "status",
+                "value": "Status"
+            },
+            {
+                "key": "platform",
+                "value": "Platform"
+            },
+            {
+                "key": "unitId",
+                "value": "Unit ID"
+            },
+            {
+                "key": "majorName",
+                "value": "Major Name"
+            },
+            {
+                "key": "minorName",
+                "value": "Minor Name"
+            },
+            {
+                "key": "model",
+                "value": "Model"
+            },
+            {
+                "key": "remoteHost",
+                "value": "Remote Host"
+            }
+        ]
+    }
+}

@@ -1,0 +1,216 @@
+[
+    {
+        "id": "9bbb163c-f0e3-44c0-b15d-70d55f399774",
+        "username": "rahul.raut",
+        "firstName": "Rahul",
+        "lastName": "Raut",
+        "email": "rahul.raut@redlion.net",
+        "emailVerified": true,
+        "role": "Admin",
+        "attributes": {
+            "devices": [
+                "YU16OCT2000053",
+                "YU06MAR2000052",
+                "YU02NOV2000001",
+                "YU10JAN2000001"
+            ]
+        }
+    },
+    {
+        "id": "25951e0c-f5cd-4c58-bad9-3ba40511eb3c",
+        "username": "mehdi",
+        "firstName": "Mehdi",
+        "lastName": "Idrissi",
+        "email": "mehdi.idrissi@redlion.net",
+        "emailVerified": true,
+        "role": "Admin",
+        "attributes": {
+            "devices": [
+                "YU16OCT2000053",
+                "YU06MAR2000052",
+                "YU02NOV2000001",
+                "YU10JAN2000001"
+            ]
+        }
+    },
+    {
+        "id": "82ced2fa-8c4d-467b-b10c-a178fb5cab5d",
+        "username": "paras.jatkar",
+        "firstName": "Paras",
+        "lastName": "Jatkar",
+        "email": "paras.jatkar@redlion.net",
+        "emailVerified": true,
+        "role": "Editor",
+        "attributes": {
+            "devices": [
+                "YU16OCT2000053",
+                "YU06MAR2000052"
+            ]
+        }
+    },
+    {
+        "id": "05955324-e0f8-4bfa-952e-b450b4ed00bc",
+        "username": "jayant.hinge",
+        "firstName": "Jayant",
+        "lastName": "Hinge",
+        "email": "jayant.hinge@redlion.net",
+        "emailVerified": true,
+        "role": "Viewer",
+        "attributes": {
+            "devices": [
+                "YU02NOV2000001",
+                "YU10JAN2000001"
+            ]
+        }
+    },
+    {
+        "id": "6e10fc2d-0b55-4238-a795-7b8da9d1dba4",
+        "username": "kiran.patil",
+        "firstName": "Kiran",
+        "lastName": "Patil",
+        "email": "kiran.patil@redlion.net",
+        "emailVerified": false,
+        "role": "Operator",
+        "attributes": {
+            "devices": [
+                "YU16OCT2000053",
+                "YU06MAR2000052",
+                "YU02NOV2000001",
+                "YU10JAN2000001"
+            ]
+        }
+    },
+    {
+        "id": "f97220b7-12ce-41fa-b562-7f030abd0365",
+        "username": "sagar.satpute",
+        "firstName": "Sagar",
+        "lastName": "Satpute",
+        "email": "sagar.satpute@redlion.net",
+        "emailVerified": true,
+        "role": "Viewer",
+        "attributes": {}
+    },
+    {
+        "id": "f97220b7-12ce-41fa-b562-7f030abd0367",
+        "username": "nilesh.thakare",
+        "firstName": "Nilesh",
+        "lastName": "Thakare",
+        "email": "nilesh.thakare@redlion.net",
+        "emailVerified": false,
+        "role": "Viewer",
+        "attributes": {}
+    },
+    {
+        "id": "f97220b7-12ce-41fa-b562-7f030abd0368",
+        "username": "suraj.mane",
+        "firstName": "Suraj",
+        "lastName": "Mane",
+        "email": "suraj.mane@redlion.net",
+        "emailVerified": false,
+        "role": "Viewer",
+        "attributes": {}
+    },
+    {
+        "id": "f97220b7-12ce-41fa-b562-7f030abd0369",
+        "username": "shradha.k",
+        "firstName": "Shradha",
+        "lastName": "K",
+        "email": "shradha.k@redlion.net",
+        "emailVerified": true,
+        "role": "Viewer",
+        "attributes": {}
+    },
+    {
+        "id": "f97220b7-12ce-41fa-b562-7f030abd0370",
+        "username": "sakshi.nagare",
+        "firstName": "Sakshi",
+        "lastName": "Nagare",
+        "email": "sakshi.nagare@redlion.net",
+        "emailVerified": true,
+        "role": "Viewer",
+        "attributes": {}
+    },
+    {
+        "id": "f97220b7-12ce-41fa-b562-7f030abd0372",
+        "username": "saravanan.d",
+        "firstName": "Saravanan",
+        "lastName": "D",
+        "email": "saravanan.d@redlion.net",
+        "emailVerified": true,
+        "role": "Viewer",
+        "attributes": {}
+    },
+    {
+        "id": "f97220b7-12ce-41fa-b562-7f030abd0373",
+        "username": "keval.pambhar",
+        "firstName": "Keval",
+        "lastName": "Pambhar",
+        "email": "keval.pambhar@redlion.net",
+        "emailVerified": true,
+        "role": "Viewer",
+        "attributes": {}
+    },
+    {
+        "id": "f97220b7-12ce-41fa-b562-7f030abd0374",
+        "username": "jestin.gigi",
+        "firstName": "Jestin",
+        "lastName": "Gigi",
+        "email": "jestin.gigi@redlion.net",
+        "emailVerified": true,
+        "role": "Viewer",
+        "attributes": {}
+    },
+    {
+        "id": "f97220b7-12ce-41fa-b562-7f030abd0375",
+        "username": "animesh.wankhede",
+        "firstName": "Animesh",
+        "lastName": "Wankhede",
+        "email": "animesh.wankhede@redlion.net",
+        "emailVerified": true,
+        "role": "Viewer",
+        "attributes": {}
+    },
+    {
+        "id": "yeq0re6rtttyw89t",
+        "username": "test.user",
+        "firstName": "Test",
+        "lastName": "User",
+        "email": "test@test.com",
+        "emailVerified": true,
+        "role": "Viewer",
+        "attributes": {
+            "devices": [
+                "YU16OCT2000053",
+                "YU02NOV2000001"
+            ]
+        }
+    },
+    {
+        "id": "t769r67eqy6q898r",
+        "username": "test1.user",
+        "firstName": "Test1",
+        "lastName": "User",
+        "email": "test@user.com",
+        "role": "Operator",
+        "attributes": {
+            "devices": [
+                "YU16OCT2000053",
+                "YU06MAR2000052"
+            ]
+        }
+    },
+    {
+        "id": "0786r765098e6qy5",
+        "username": "test.test",
+        "firstName": "test",
+        "lastName": "test",
+        "email": "test@test.com",
+        "role": "Operator",
+        "emailVerified": false,
+        "attributes": {
+            "devices": [
+                "YU16OCT2000053"
+            ]
+        }
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "data": {
+        "id": "6463bfd2b8c17572dee6464a",
+            "platform": "CI3",
+            "authorized": true,
+            "banned": false,
+            "lowBandwidth": false,
+            "client": {
+                "pollInterval": 240,
+                "serverMode": "both",
+                "primary": "172.105.43.198",
+                "secondary": "13.58.58.212",
+                "version": "1.62"
+            },
+            "majorName": "Jeff_DA70",
+            "minorName": "Jeff_DA70",
+            "mode.status": "NORMAL",
+            "model": "DA70",
+            "remoteHost": "166.149.166.88",
+            "serial": "YU16OCT2000053",
+            "config": null,
+            "description": "",
+            "unitId": "YU16OCT2000053-CI3"
+    }
+}

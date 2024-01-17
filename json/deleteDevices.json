@@ -1,0 +1,8 @@
+{
+    "status": "success",
+    "data": {
+        "id": "6463bfd2b8c17572dee6464a",
+        "serials": ["YU16OCT2000053", "YU06MAR2000052"],
+        "message": "Device having serial number \"YU16OCT2000053\", \"YU06MAR2000052\" have been removed"
+    }
+}
